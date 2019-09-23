@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ieyonaeth.eqasim.org/sitemap.xml
